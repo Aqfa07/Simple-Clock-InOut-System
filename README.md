@@ -7,24 +7,6 @@
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+The project is live at:
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/aqilaqira8-gmailcoms-projects/v0-simple-clock-in-out-app](https://vercel.com/aqilaqira8-gmailcoms-projects/v0-simple-clock-in-out-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/CyhvwGpMMxh](https://v0.dev/chat/projects/CyhvwGpMMxh)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**[https://v0-simple-clock-in-out-app.vercel.app/](https://v0-simple-clock-in-out-app.vercel.app/)**
