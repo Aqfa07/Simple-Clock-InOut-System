@@ -12,6 +12,9 @@ The project is live at:
 **[https://v0-simple-clock-in-out-app.vercel.app/](https://v0-simple-clock-in-out-app.vercel.app/)**
 
 here's the example account the app
+
 email: "john@example.com", password: "password1", name: "John Smith"
+
 email: "jane@example.com", password: "password2", name: "Jane Doe"
+
 email: "mike@example.com", password: "password3", name: "Mike Johnson"
